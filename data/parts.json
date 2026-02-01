@@ -1,0 +1,2066 @@
+[
+  {
+    "ldraw": "95646",
+    "ldrawFile": "95646.dat",
+    "name": "EV3 Programmable Brick",
+    "category": "electronics-brick",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "95658",
+    "ldrawFile": "95658.dat",
+    "name": "EV3 Large Servo Motor",
+    "category": "electronics-motor",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "99455",
+    "ldrawFile": "99455.dat",
+    "name": "EV3 Medium Servo Motor",
+    "category": "electronics-motor",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "95648",
+    "ldrawFile": "95648.dat",
+    "name": "EV3 Touch Sensor",
+    "category": "electronics-sensor",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "95650",
+    "ldrawFile": "95650.dat",
+    "name": "EV3 Color Sensor",
+    "category": "electronics-sensor",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "95652",
+    "ldrawFile": "95652.dat",
+    "name": "EV3 Ultrasonic Sensor",
+    "category": "electronics-sensor",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "99380",
+    "ldrawFile": "99380.dat",
+    "name": "EV3 Gyro Sensor",
+    "category": "electronics-sensor",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "95656",
+    "ldrawFile": "95656.dat",
+    "name": "EV3 Rechargeable Battery",
+    "category": "electronics-battery",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "11145",
+    "ldrawFile": "11145.dat",
+    "name": "EV3 Cable 25cm",
+    "category": "electronics-cable",
+    "material": "PVC/Copper",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "55805",
+    "ldrawFile": "55805.dat",
+    "name": "EV3 Cable 35cm",
+    "category": "electronics-cable",
+    "material": "PVC/Copper",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "55806",
+    "ldrawFile": "55806.dat",
+    "name": "EV3 Cable 50cm",
+    "category": "electronics-cable",
+    "material": "PVC/Copper",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "10916",
+    "ldrawFile": "10916.dat",
+    "name": "EV3 USB Cable 2m",
+    "category": "electronics-cable",
+    "material": "PVC/Copper",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "32062",
+    "ldrawFile": "32062.dat",
+    "name": "Axle 2 with Grooves",
+    "category": "axle",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "4519",
+    "ldrawFile": "4519.dat",
+    "name": "Axle 3",
+    "category": "axle",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "6587",
+    "ldrawFile": "6587.dat",
+    "name": "Axle 3 with Stud",
+    "category": "axle",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "3705",
+    "ldrawFile": "3705.dat",
+    "name": "Axle 4",
+    "category": "axle",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "87083",
+    "ldrawFile": "87083.dat",
+    "name": "Axle 4 with End Stop",
+    "category": "axle",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "99008",
+    "ldrawFile": "99008.dat",
+    "name": "Axle 4 with Middle Stop",
+    "category": "axle",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "32073",
+    "ldrawFile": "32073.dat",
+    "name": "Axle 5",
+    "category": "axle",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "32209",
+    "ldrawFile": "32209.dat",
+    "name": "Axle 5.5 Double with Stop",
+    "category": "axle",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "3706",
+    "ldrawFile": "3706.dat",
+    "name": "Axle 6",
+    "category": "axle",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "44294",
+    "ldrawFile": "44294.dat",
+    "name": "Axle 7",
+    "category": "axle",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "3707",
+    "ldrawFile": "3707.dat",
+    "name": "Axle 8",
+    "category": "axle",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "55013",
+    "ldrawFile": "55013.dat",
+    "name": "Axle 8 with End Stop",
+    "category": "axle",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "60485",
+    "ldrawFile": "60485.dat",
+    "name": "Axle 9",
+    "category": "axle",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "3737",
+    "ldrawFile": "3737.dat",
+    "name": "Axle 10",
+    "category": "axle",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "3708",
+    "ldrawFile": "3708.dat",
+    "name": "Axle 12",
+    "category": "axle",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "6553",
+    "ldrawFile": "6553.dat",
+    "name": "Axle 1.5 with Perpendicular Axle Connector",
+    "category": "connector-axle",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "6538",
+    "ldrawFile": "6538.dat",
+    "name": "Axle Connector Ridged with X Hole",
+    "category": "connector-axle",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "59443",
+    "ldrawFile": "59443.dat",
+    "name": "Axle Connector Smooth with X Hole",
+    "category": "connector-axle",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "2736",
+    "ldrawFile": "2736.dat",
+    "name": "Axle with Ball",
+    "category": "axle",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "2780",
+    "ldrawFile": "2780.dat",
+    "name": "Technic Pin with Short Friction Ridges",
+    "category": "connector-pin",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "6558",
+    "ldrawFile": "6558.dat",
+    "name": "Long Pin with Friction",
+    "category": "connector-pin",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "3673",
+    "ldrawFile": "3673.dat",
+    "name": "Pin without Friction",
+    "category": "connector-pin",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "32556",
+    "ldrawFile": "32556.dat",
+    "name": "Technic Long Pin without Friction",
+    "category": "connector-pin",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "43093",
+    "ldrawFile": "43093.dat",
+    "name": "Axle to Pin Connector with Friction",
+    "category": "connector-axle",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "3749",
+    "ldrawFile": "3749.dat",
+    "name": "Pin with Axle Connector",
+    "category": "connector-axle",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "32054",
+    "ldrawFile": "32054.dat",
+    "name": "Long Pin with Friction and Bushing",
+    "category": "connector-pin",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "44874",
+    "ldrawFile": "44874.dat",
+    "name": "Long Pin with Center Hole",
+    "category": "connector-pin",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "29219",
+    "ldrawFile": "29219.dat",
+    "name": "Pin Joiner Round with Slot",
+    "category": "connector-pin",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "32002",
+    "ldrawFile": "32002.dat",
+    "name": "Three Quarter Pin",
+    "category": "connector-pin",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "6562",
+    "ldrawFile": "6562.dat",
+    "name": "Connector Peg Cross Axle",
+    "category": "connector-pin",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "39888",
+    "ldrawFile": "39888.dat",
+    "name": "3M Connector Peg",
+    "category": "connector-pin",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "66906",
+    "ldrawFile": "66906.dat",
+    "name": "Pin with Ball",
+    "category": "connector-pin",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "42136",
+    "ldrawFile": "42136.dat",
+    "name": "Half Bushing",
+    "category": "bushing",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "6590",
+    "ldrawFile": "6590.dat",
+    "name": "Bushing",
+    "category": "bushing",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "65098",
+    "ldrawFile": "65098.dat",
+    "name": "Module Bush",
+    "category": "bushing",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "57585",
+    "ldrawFile": "57585.dat",
+    "name": "Technic Bush 3 Axles",
+    "category": "bushing",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "43857",
+    "ldrawFile": "43857.dat",
+    "name": "Beam 2",
+    "category": "beam-straight",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "40147",
+    "ldrawFile": "40147.dat",
+    "name": "Beam 2 with Axle and Pin Hole",
+    "category": "beam-straight",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "44862",
+    "ldrawFile": "44862.dat",
+    "name": "Beam 2 x 0.5 with Axle Holes",
+    "category": "beam-straight",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "32523",
+    "ldrawFile": "32523.dat",
+    "name": "Beam 3",
+    "category": "beam-straight",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "49137",
+    "ldrawFile": "49137.dat",
+    "name": "Beam 3 with Axle Holes and Fork",
+    "category": "beam-straight",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "6632",
+    "ldrawFile": "6632.dat",
+    "name": "Beam 3 x 0.5 Thin with Axle Holes",
+    "category": "beam-straight",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "32449",
+    "ldrawFile": "32449.dat",
+    "name": "Beam 4 x 0.5 Thin",
+    "category": "beam-straight",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "32316",
+    "ldrawFile": "32316.dat",
+    "name": "Beam 5",
+    "category": "beam-straight",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "11478",
+    "ldrawFile": "11478.dat",
+    "name": "Beam 5 x 0.5 Thin with Axle Holes",
+    "category": "beam-straight",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "32524",
+    "ldrawFile": "32524.dat",
+    "name": "Beam 7",
+    "category": "beam-straight",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "40490",
+    "ldrawFile": "40490.dat",
+    "name": "Beam 9",
+    "category": "beam-straight",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "32525",
+    "ldrawFile": "32525.dat",
+    "name": "Beam 11",
+    "category": "beam-straight",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "41239",
+    "ldrawFile": "41239.dat",
+    "name": "Beam 13",
+    "category": "beam-straight",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "32278",
+    "ldrawFile": "32278.dat",
+    "name": "Beam 15",
+    "category": "beam-straight",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "32140",
+    "ldrawFile": "32140.dat",
+    "name": "Beam 2 x 4 Bent 90 Degrees",
+    "category": "beam-angular",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "32526",
+    "ldrawFile": "32526.dat",
+    "name": "Beam 3 x 5 Bent 90 Degrees",
+    "category": "beam-angular",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "65193",
+    "ldrawFile": "65193.dat",
+    "name": "Beam 3 x 5 x 0.5 Triangle Thin",
+    "category": "beam-angular",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "60484",
+    "ldrawFile": "60484.dat",
+    "name": "Beam 3 x 3 T-Shaped",
+    "category": "beam-angular",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "32009",
+    "ldrawFile": "32009.dat",
+    "name": "Beam 3 x 3.8 x 7 Bent 45 Double",
+    "category": "beam-angular",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "32348",
+    "ldrawFile": "32348.dat",
+    "name": "Beam Bent 53 Degrees 4 and 4 Holes",
+    "category": "beam-angular",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "6629",
+    "ldrawFile": "6629.dat",
+    "name": "Beam Bent 53 Degrees 4 and 6 Holes",
+    "category": "beam-angular",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "32271",
+    "ldrawFile": "32271.dat",
+    "name": "Beam Bent 53 Degrees 3 and 7 Holes",
+    "category": "beam-angular",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "33299",
+    "ldrawFile": "33299.dat",
+    "name": "Beam 3 x 0.5 with Knob and Pin",
+    "category": "beam-angular",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "44809",
+    "ldrawFile": "44809.dat",
+    "name": "Cross Block Bent 90 Degrees V Beam",
+    "category": "beam-angular",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "64178",
+    "ldrawFile": "64178.dat",
+    "name": "Beam Frame 5 x 11",
+    "category": "beam-frame",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "64179",
+    "ldrawFile": "64179.dat",
+    "name": "Beam Frame 5 x 7",
+    "category": "beam-frame",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "65452",
+    "ldrawFile": "65452.dat",
+    "name": "Beam Frame with Large Ball Joint",
+    "category": "beam-frame",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "65124",
+    "ldrawFile": "65124.dat",
+    "name": "Beam Frame with Wheel Bearing Socket",
+    "category": "beam-frame",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "42003",
+    "ldrawFile": "42003.dat",
+    "name": "Cross Block 1 x 3",
+    "category": "cross-block",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "32184",
+    "ldrawFile": "32184.dat",
+    "name": "Cross Block 1 x 3 with Two Axle Holes",
+    "category": "cross-block",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "41678",
+    "ldrawFile": "41678.dat",
+    "name": "Cross Block Fork 2 x 2",
+    "category": "cross-block",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "6536",
+    "ldrawFile": "6536.dat",
+    "name": "Cross Block 90 Degrees 1 x 2",
+    "category": "cross-block",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "32291",
+    "ldrawFile": "32291.dat",
+    "name": "Cross Block with 2 Pinholes",
+    "category": "cross-block",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "48989",
+    "ldrawFile": "48989.dat",
+    "name": "Cross Block Beam 3 with Four Pins",
+    "category": "cross-block",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "49130",
+    "ldrawFile": "49130.dat",
+    "name": "Cross Block Beam Bent 90 with 4 Pins",
+    "category": "cross-block",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "49491",
+    "ldrawFile": "49491.dat",
+    "name": "Cross Block with Four Pin Holes and Axle",
+    "category": "cross-block",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "32557",
+    "ldrawFile": "32557.dat",
+    "name": "Cross Block 2 x 3 with Four Pinholes",
+    "category": "cross-block",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "42163",
+    "ldrawFile": "42163.dat",
+    "name": "Technic Cross Block 2 x 1",
+    "category": "cross-block",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "42191",
+    "ldrawFile": "42191.dat",
+    "name": "Technic Cross Block 3 x 2",
+    "category": "cross-block",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "10197",
+    "ldrawFile": "10197.dat",
+    "name": "Beam 1 with Perpendicular Axles",
+    "category": "specialty",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "42127",
+    "ldrawFile": "42127.dat",
+    "name": "Angle Connector Number 1 (0 Degrees)",
+    "category": "angle-connector",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "42134",
+    "ldrawFile": "42134.dat",
+    "name": "Angle Connector Number 2 (180 Degrees)",
+    "category": "angle-connector",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "42128",
+    "ldrawFile": "42128.dat",
+    "name": "Angle Connector Number 3 (157.5 Degrees)",
+    "category": "angle-connector",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "41488",
+    "ldrawFile": "41488.dat",
+    "name": "Angle Connector Number 5 (112.5 Degrees)",
+    "category": "angle-connector",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "42155",
+    "ldrawFile": "42155.dat",
+    "name": "Angle Connector Number 6 (90 Degrees)",
+    "category": "angle-connector",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "10928",
+    "ldrawFile": "10928.dat",
+    "name": "Gear with 8 Teeth",
+    "category": "gear-spur",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "94925",
+    "ldrawFile": "94925.dat",
+    "name": "Gear with 16 Teeth and Clutch",
+    "category": "gear-spur",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "24505",
+    "ldrawFile": "24505.dat",
+    "name": "Gear with 24 Teeth",
+    "category": "gear-spur",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "3649",
+    "ldrawFile": "3649.dat",
+    "name": "Gear with 40 Teeth",
+    "category": "gear-spur",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "32072",
+    "ldrawFile": "32072.dat",
+    "name": "Gear 4 Knobs",
+    "category": "gear-spur",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "32270",
+    "ldrawFile": "32270.dat",
+    "name": "Bevel Gear with 12 Teeth",
+    "category": "gear-bevel",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "18575",
+    "ldrawFile": "18575.dat",
+    "name": "Bevel Gear with 20 Teeth Reinforced",
+    "category": "gear-bevel",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "6589",
+    "ldrawFile": "6589.dat",
+    "name": "Bevel Gear Half with 12 Teeth",
+    "category": "gear-bevel",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "32198",
+    "ldrawFile": "32198.dat",
+    "name": "Bevel Gear Half with 20 Teeth",
+    "category": "gear-bevel",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "87407",
+    "ldrawFile": "87407.dat",
+    "name": "Bevel Gear Half with 20 Teeth Notched",
+    "category": "gear-bevel",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "32498",
+    "ldrawFile": "32498.dat",
+    "name": "Bevel Gear Double 36 Teeth",
+    "category": "gear-bevel",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "13670",
+    "ldrawFile": "13670.dat",
+    "name": "Axle 3 with Stud",
+    "category": "axle",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "4716",
+    "ldrawFile": "4716.dat",
+    "name": "Worm Gear",
+    "category": "gear-special",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "57519",
+    "ldrawFile": "57519.dat",
+    "name": "Sprocket Wheel",
+    "category": "gear-special",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "2815",
+    "ldrawFile": "2815.dat",
+    "name": "Tire for Wedge Belt Wheel",
+    "category": "wheel-tire",
+    "material": "Rubber/TPE",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "41897",
+    "ldrawFile": "41897.dat",
+    "name": "Tire 56x28",
+    "category": "wheel-tire",
+    "material": "Rubber/TPE",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "4185",
+    "ldrawFile": "4185.dat",
+    "name": "Wedge Belt Wheel",
+    "category": "wheel-rim",
+    "material": "Rubber/TPE",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "56908",
+    "ldrawFile": "56908.dat",
+    "name": "Wheel Rim 43.2x26",
+    "category": "wheel-rim",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "99009",
+    "ldrawFile": "99009.dat",
+    "name": "Turntable Bottom",
+    "category": "wheel-rim",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "99010",
+    "ldrawFile": "99010.dat",
+    "name": "Turntable Top",
+    "category": "wheel-rim",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "39892",
+    "ldrawFile": "39892.dat",
+    "name": "Upper Part for Turntable Z28",
+    "category": "wheel-rim",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "87080",
+    "ldrawFile": "87080.dat",
+    "name": "Curved Panel 1 Left 3x5",
+    "category": "panel",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "87086",
+    "ldrawFile": "87086.dat",
+    "name": "Curved Panel 2 Right 3x5",
+    "category": "panel",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "64392",
+    "ldrawFile": "64392.dat",
+    "name": "Curved Panel 17 Left 5x11",
+    "category": "panel",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "64682",
+    "ldrawFile": "64682.dat",
+    "name": "Curved Panel 18 Right 5x11",
+    "category": "panel",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "45590",
+    "ldrawFile": "45590.dat",
+    "name": "Flexible Rubber Axle Connector",
+    "category": "connector-axle",
+    "material": "Rubber/TPE",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "41669",
+    "ldrawFile": "41669.dat",
+    "name": "Claw with Axle Hole",
+    "category": "specialty",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "42479",
+    "ldrawFile": "42479.dat",
+    "name": "Large Tread Link",
+    "category": "wheel-tire",
+    "material": "Rubber/TPE",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "65453",
+    "ldrawFile": "65453.dat",
+    "name": "Beam 3 with Large Ball Socket",
+    "category": "specialty",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "61408",
+    "ldrawFile": "61408.dat",
+    "name": "Steering Knuckle Arm",
+    "category": "specialty",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "63782",
+    "ldrawFile": "63782.dat",
+    "name": "Lever 1x4 without Notch",
+    "category": "specialty",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "49135",
+    "ldrawFile": "49135.dat",
+    "name": "Technic Angular Wheel",
+    "category": "wheel-rim",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "99948",
+    "ldrawFile": "99948.dat",
+    "name": "Steel Ball 18mm",
+    "category": "specialty",
+    "material": "Steel",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "42149",
+    "ldrawFile": "42149.dat",
+    "name": "Beam Bent 53 4/6",
+    "category": "beam-angular",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "62821",
+    "ldrawFile": "62821.dat",
+    "name": "Differential Gear Casing",
+    "category": "specialty",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "53504",
+    "ldrawFile": "53504.dat",
+    "name": "Gear Rack 13",
+    "category": "gear-special",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "6539",
+    "ldrawFile": "6539.dat",
+    "name": "Transmission Driving Ring",
+    "category": "specialty",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "6641",
+    "ldrawFile": "6641.dat",
+    "name": "Change-over Catch",
+    "category": "specialty",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "42610",
+    "ldrawFile": "42610.dat",
+    "name": "Wheel Rim 11.2x8",
+    "category": "wheel-rim",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "55982",
+    "ldrawFile": "55982.dat",
+    "name": "Wheel Rim 18x14",
+    "category": "wheel-rim",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "77031",
+    "ldrawFile": "77031.dat",
+    "name": "Wheel Rim 18x7 Deep Spokes",
+    "category": "wheel-rim",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "44292",
+    "ldrawFile": "44292.dat",
+    "name": "Wheel Rim 30x20",
+    "category": "wheel-rim",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "50163",
+    "ldrawFile": "50163.dat",
+    "name": "Turntable with Hole Base",
+    "category": "wheel-rim",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "92909",
+    "ldrawFile": "92909.dat",
+    "name": "Wheel Bearing with Three Pins",
+    "category": "wheel-rim",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "24341",
+    "ldrawFile": "24341.dat",
+    "name": "Tire 24x14",
+    "category": "wheel-tire",
+    "material": "Rubber/TPE",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "44309",
+    "ldrawFile": "44309.dat",
+    "name": "Tire 43.2x22",
+    "category": "wheel-tire",
+    "material": "Rubber/TPE",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "44771",
+    "ldrawFile": "44771.dat",
+    "name": "Tire 68.8x36",
+    "category": "wheel-tire",
+    "material": "Rubber/TPE",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "85544",
+    "ldrawFile": "85544.dat",
+    "name": "V-Belt 24mm",
+    "category": "wheel-tire",
+    "material": "Rubber/TPE",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "85545",
+    "ldrawFile": "85545.dat",
+    "name": "V-Belt 26mm",
+    "category": "wheel-tire",
+    "material": "Rubber/TPE",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "85546",
+    "ldrawFile": "85546.dat",
+    "name": "V-Belt 33mm",
+    "category": "wheel-tire",
+    "material": "Rubber/TPE",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "14149",
+    "ldrawFile": "14149.dat",
+    "name": "Rubber Attachment for Tread Link",
+    "category": "wheel-tire",
+    "material": "Rubber/TPE",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "70902",
+    "ldrawFile": "70902.dat",
+    "name": "Rubber Band 15mm",
+    "category": "wheel-tire",
+    "material": "Rubber/TPE",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "64683",
+    "ldrawFile": "64683.dat",
+    "name": "Curved Panel 3 Left 3x7",
+    "category": "panel",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "64391",
+    "ldrawFile": "64391.dat",
+    "name": "Curved Panel 4 Right 3x7",
+    "category": "panel",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "64681",
+    "ldrawFile": "64681.dat",
+    "name": "Curved Panel 5 Left 3x11",
+    "category": "panel",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "64393",
+    "ldrawFile": "64393.dat",
+    "name": "Curved Panel 6 Right 3x11",
+    "category": "panel",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "64680",
+    "ldrawFile": "64680.dat",
+    "name": "Curved Panel 14 Right 5x7",
+    "category": "panel",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "64394",
+    "ldrawFile": "64394.dat",
+    "name": "Curved Panel 13 Left 5x7",
+    "category": "panel",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "11954",
+    "ldrawFile": "11954.dat",
+    "name": "Curved Panel 11x3",
+    "category": "panel",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "43499",
+    "ldrawFile": "43499.dat",
+    "name": "Curved Panel 21 Right 2x5",
+    "category": "panel",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "43500",
+    "ldrawFile": "43500.dat",
+    "name": "Curved Panel 22 Left 2x5",
+    "category": "panel",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "42135",
+    "ldrawFile": "42135.dat",
+    "name": "Catch with Cross Hole",
+    "category": "specialty",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "44864",
+    "ldrawFile": "44864.dat",
+    "name": "Lever 5M",
+    "category": "specialty",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "32005",
+    "ldrawFile": "32005.dat",
+    "name": "Link 1x6 with Stoppers",
+    "category": "specialty",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "4032",
+    "ldrawFile": "4032.dat",
+    "name": "Plate 2x2 Round",
+    "category": "specialty",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "2654",
+    "ldrawFile": "2654.dat",
+    "name": "Plate 2x2 Round Rounded Bottom",
+    "category": "specialty",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "49155",
+    "ldrawFile": "49155.dat",
+    "name": "Triangular Three-Axle Connector",
+    "category": "specialty",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "6575",
+    "ldrawFile": "6575.dat",
+    "name": "Technic Half Beam Cam",
+    "category": "specialty",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "19991",
+    "ldrawFile": "19991.dat",
+    "name": "Input Shaft for CV Joint",
+    "category": "specialty",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "92906",
+    "ldrawFile": "92906.dat",
+    "name": "Output Shaft for CV Joint",
+    "category": "specialty",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "61903",
+    "ldrawFile": "61903.dat",
+    "name": "Universal Joint 3",
+    "category": "specialty",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "57539",
+    "ldrawFile": "57539.dat",
+    "name": "Flexible Ribbed Hose 19 Studs",
+    "category": "specialty",
+    "material": "Rubber/TPE",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "43675",
+    "ldrawFile": "43675.dat",
+    "name": "Corrugated Hose 15.2cm",
+    "category": "specialty",
+    "material": "Rubber/TPE",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "6143",
+    "ldrawFile": "6143.dat",
+    "name": "Brick 2x2 Round",
+    "category": "specialty",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "98585",
+    "ldrawFile": "98585.dat",
+    "name": "Connector Round",
+    "category": "specialty",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "98138",
+    "ldrawFile": "98138.dat",
+    "name": "Tile 1x1 Round",
+    "category": "specialty",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "59900",
+    "ldrawFile": "59900.dat",
+    "name": "Cone 1x1",
+    "category": "specialty",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "98578",
+    "ldrawFile": "98578.dat",
+    "name": "Spiked Ball Half",
+    "category": "specialty",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  },
+  {
+    "ldraw": "279881",
+    "ldrawFile": "279881.dat",
+    "name": "Technic Angular Beam 4x6",
+    "category": "beam-angular",
+    "material": "ABS",
+    "source": {
+      "name": "BrickLink/BrickOwl",
+      "geometry": "LDraw",
+      "material": "industry-knowledge"
+    }
+  }
+]

@@ -1,150 +1,133 @@
-# Lego EV3 Mindstorm SysML v2 Model
+# LEGO EV3 Mindstorms — Reusable Parts Library
 
 ## Overview
 
-This is a complete SysML v2 model of the Lego EV3 Mindstorm robot system. The model provides a comprehensive representation of the EV3 hardware components, behavioral definitions, and system requirements using the SysML v2 specification. It serves as both a reference implementation for robotics modeling and an educational resource for learning SysML v2 concepts.
+A reusable parts library for the LEGO Mindstorms EV3 platform, containing 172 components across three data layers:
 
-## File Structure
+| Layer | Format | Purpose |
+|---|---|---|
+| **Parts data** | JSON | Machine-readable catalog with LDraw IDs, materials, categories |
+| **Kit inventories** | JSON | Set inventories (45544, 45560) with quantities and colors |
+| **SysML v2 models** | `.sysml` | Behavioral models, requirements, system architecture |
+| **Geometry** | LDraw `.dat` | 3D part geometry (downloaded separately from LDraw.org) |
+
+Parts are identified by **LDraw part numbers** (e.g., `2780`, `95646`), not internal PLM identifiers. This makes the library reusable across different PLM systems, CAD tools, and educational projects.
+
+## Repository Structure
 
 ```
-examples/ev3/
-├── README.md                    # This file
-├── domain/
-│   ├── EV3Types.sysml          # Enumerations and base types
-│   └── EV3Interfaces.sysml     # Port definitions
-├── hardware/
-│   ├── EV3Brick.sysml          # Intelligent brick definition
-│   ├── EV3Motors.sysml         # Large and Medium motors
-│   └── EV3Sensors.sysml        # All 5 sensor types
-├── behavior/
-│   ├── EV3Actions.sysml        # Action definitions
-│   ├── EV3States.sysml         # State machine definitions
-│   └── EV3Calculations.sysml   # Calculation definitions
-├── requirements/
-│   └── EV3Requirements.sysml   # System requirements & constraints
-└── EV3System.sysml             # Top-level system integration
+Lego-EV3-Mindstorm-Models/
+├── data/
+│   ├── parts.json              # 172 parts with LDraw IDs, categories, materials
+│   └── kits/
+│       ├── 45544.json          # Education Core Set (541 pcs, 108 lines)
+│       └── 45560.json          # Expansion Set (853 pcs, 143 lines)
+├── sysml/                      # SysML v2 behavioral models
+│   ├── EV3Library.sysml
+│   ├── EV3System.sysml
+│   ├── axles/
+│   ├── behavior/
+│   ├── connectors/
+│   ├── domain/
+│   ├── electronics/
+│   ├── gears/
+│   ├── hardware/
+│   ├── kits/
+│   ├── other/
+│   ├── requirements/
+│   ├── structural/
+│   └── wheels/
+├── geometry/                   # LDraw .dat files (download separately)
+│   └── README.md
+└── README.md
 ```
 
-## Components
+## Parts Data
 
-### Domain Layer
+### data/parts.json
 
-- **EV3Types.sysml**: 10 enumerations (MotorPort, SensorPort, Color, MotorDirection, etc.)
-- **EV3Interfaces.sysml**: 12 port definitions for motor control, sensor data, display, sound, and communication
+172 parts cataloged with granular categories:
 
-### Hardware Layer
+| Category | Count | Examples |
+|---|---|---|
+| `electronics-brick` | 1 | EV3 Programmable Brick |
+| `electronics-motor` | 2 | Large Servo Motor, Medium Servo Motor |
+| `electronics-sensor` | 4 | Color, Touch, Ultrasonic, Gyro |
+| `electronics-battery` | 1 | Rechargeable Battery |
+| `electronics-cable` | 4 | 25cm, 35cm, 50cm, USB 2m |
+| `axle` | 17 | Axle 2 through Axle 12, with variants |
+| `connector-pin` | 13 | Friction pins, long pins, pegs |
+| `connector-axle` | 4 | Axle connectors, axle-to-pin |
+| `bushing` | 4 | Half bushing, bushing, module bush |
+| `beam-straight` | 16 | Beam 2 through Beam 15 |
+| `beam-angular` | 12 | Bent beams, T-shaped, triangles |
+| `beam-frame` | 4 | Frames 5x7, 5x11, ball joint, bearing |
+| `cross-block` | 12 | Various cross blocks and connectors |
+| `angle-connector` | 5 | 0° through 180° connectors |
+| `gear-spur` | 5 | 8T, 16T, 24T, 40T, 4-knob |
+| `gear-bevel` | 6 | 12T, 20T bevel gears and halves |
+| `gear-special` | 4 | Worm, rack, sprocket, differential |
+| `wheel-rim` | 9 | Rims, turntables, wheel bearings |
+| `wheel-tire` | 12 | Tires, treads, V-belts, rubber bands |
+| `panel` | 14 | Curved panels in various sizes |
+| `specialty` | 23 | Levers, plates, hoses, decorative |
 
-- **EV3Brick.sysml**: EV3 Intelligent Brick with battery, buttons, display, speaker, and all ports
-- **EV3Motors.sysml**: Large Motor (45mm, 170 RPM) and Medium Motor (32mm, 250 RPM) with real specifications
-- **EV3Sensors.sysml**: All 5 sensor types - Color, Touch, Ultrasonic, Gyro, and Infrared with real specifications
-
-### Behavior Layer
-
-- **EV3Actions.sysml**: 22 action definitions for motor control, sensor reading, display, sound, and composite behaviors
-- **EV3States.sysml**: 6 state machines for motor, sensor, brick, and robot operational states
-- **EV3Calculations.sysml**: 12 calculation definitions for motor math, odometry, PID, battery monitoring
-
-### Requirements Layer
-
-- **EV3Requirements.sysml**: 25+ requirements and constraints covering hardware, performance, timing, and safety
-
-### System Integration
-
-- **EV3System.sysml**: Connection definitions and 7 robot configuration templates (driving, line following, obstacle avoiding, balancing, gripper, remote controlled, education robot)
-
-## Robot Configuration Templates
-
-| Template | Description | Components |
-|----------|-------------|------------|
-| EV3RobotBase | Abstract base | Brick only |
-| EV3DrivingRobot | Differential drive | Brick + DualMotorDrive |
-| EV3LineFollowingRobot | Line follower | Driving + ColorSensor |
-| EV3ObstacleAvoidingRobot | Obstacle avoidance | Driving + UltrasonicSensor |
-| EV3BalancingRobot | Self-balancing | Brick + GyroSensor + 2 LargeMotors |
-| EV3GrippingRobot | Robot with gripper | Driving + MediumMotor + TouchSensor |
-| EV3RemoteControlledRobot | IR remote control | Driving + InfraredSensor + Beacon |
-
-## Hardware Specifications
-
-### EV3 Intelligent Brick
-
-- 4 motor output ports (A, B, C, D)
-- 4 sensor input ports (1, 2, 3, 4)
-- 178x128 pixel LCD display
-- Built-in speaker
-- Bluetooth 2.1 and USB 2.0 connectivity
-- 7.4V rechargeable battery (2050 mAh)
-
-### Motors
-
-| Motor | Diameter | Speed | Torque (Stall) | Weight |
-|-------|----------|-------|----------------|--------|
-| Large | 45 mm | 170 RPM | 40 Ncm | 76 g |
-| Medium | 32 mm | 250 RPM | 12 Ncm | 36 g |
-
-### Sensors
-
-| Sensor | Key Specification |
-|--------|------------------|
-| Color | 8 colors, 0-100 reflection, RGB mode |
-| Touch | Press detect with bump counting |
-| Ultrasonic | 3-250 cm range, +/-1 cm accuracy |
-| Gyro | +/-440 deg/s, +/-3 deg accuracy |
-| Infrared | 70 cm proximity, 200 cm beacon tracking |
-
-## Usage
-
-### Importing the Model
-
-```sysml
-import EV3System::*;
-
-part myRobot : EV3DrivingRobot {
-    attribute :>> wheelDiameter = 56.0;
-    attribute :>> trackWidth = 120.0;
+Each part record:
+```json
+{
+  "ldraw": "2780",
+  "ldrawFile": "2780.dat",
+  "name": "Technic Pin with Short Friction Ridges",
+  "category": "connector-pin",
+  "material": "ABS",
+  "source": {
+    "name": "BrickLink/BrickOwl",
+    "geometry": "LDraw",
+    "material": "industry-knowledge"
+  }
 }
 ```
 
-### Creating Custom Robot Configurations
+### Kit Inventories
 
-```sysml
-part def MyCustomRobot :> EV3DrivingRobot {
-    part colorSensor : EV3ColorSensor;
-    part gripperMotor : EV3MediumMotor;
-}
-```
+Each kit file lists parts by LDraw number with quantities and color notes:
 
-### Extending Behaviors
+| Kit | Set # | Pieces | Lines | Focus |
+|---|---|---|---|---|
+| Education Core | 45544 | 541 | 108 | Full system: brick, motors, sensors, structural |
+| Expansion | 45560 | 853 | 143 | Additional structural, gears, wheels, specialty |
 
-```sysml
-action def MyLineFollowAction :> EV3Actions::LineFollowAction {
-    // Custom line following parameters
-    in attribute kp : Real = 0.5;
-    in attribute ki : Real = 0.01;
-    in attribute kd : Real = 0.1;
-}
-```
+## SysML v2 Models
 
-### Using Calculations
+The `sysml/` directory contains behavioral and architectural models:
 
-```sysml
-calc def ComputeDistance :> EV3Calculations::OdometryCalc {
-    in leftRotations : Real;
-    in rightRotations : Real;
-    return distance : Real;
-}
-```
+- **Domain** — Type definitions, enumerations, port interfaces
+- **Hardware** — EV3 brick, motors, sensors with real specifications
+- **Behavior** — 22 actions, 6 state machines, 12 calculations (PID, odometry)
+- **Requirements** — 25+ requirements and constraints
+- **System** — 7 robot configuration templates (driving, line following, balancing, etc.)
+- **Kits** — Set-level part definitions for 45544, 45560, and 31313
 
-## Validation
+See the [SysML models README](sysml/) for detailed usage and examples.
 
-All SysML files have been validated with the SysML v2 parser and parse without errors.
+## Geometry
+
+LDraw `.dat` files provide 3D geometry for each part. Due to size (~80 MB), they are not included directly. See [`geometry/README.md`](geometry/README.md) for download instructions.
+
+## Integration with PLMr
+
+This library is designed to be consumed by [PLMr](https://github.com/DocWach/PLMr), a PLM co-pilot for engineering education. PLMr assigns its own internal part numbers (`PRT-#####`) and converts LDraw geometry to STEP AP242 format — creating a realistic PLM integration exercise where students must map between vendor identifiers and enterprise numbering.
+
+## Data Sources
+
+| Source | What it provides |
+|---|---|
+| [LDraw.org](https://www.ldraw.org/) | Part geometry, part numbers, `.dat` file format |
+| [BrickLink](https://www.bricklink.com/) | Part names, categories, colors, set inventories |
+| [BrickOwl](https://www.brickowl.com/) | Cross-reference names and categories |
+| [Brickset](https://brickset.com/) | Set-level inventory and piece counts |
+| Industry knowledge | Material compositions (ABS, PVC/Copper, Rubber/TPE, Steel) |
 
 ## License
 
-This model is provided for educational purposes demonstrating SysML v2 modeling of robotic systems.
-
-## References
-
-- LEGO MINDSTORMS EV3 Hardware Developer Kit
-- SysML v2 Specification (OMG)
-- LEGO Education EV3 Technical Resources
+SysML models and data files are provided for educational and research purposes. LEGO and Mindstorms are trademarks of the LEGO Group. LDraw geometry is available under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).
